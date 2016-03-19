@@ -15,6 +15,8 @@ import java.util.Scanner;
             System.out.println("Enter your first name:");
             firstName = userInput.next(); // next - следующая строка, которую введет пользователь
 
+            // .next() выведет тип данных String
+            // .nextInt() выведет тип данных Int
 
 
         }

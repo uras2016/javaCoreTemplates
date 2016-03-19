@@ -14,7 +14,7 @@ public class SwitchStatement { // используеться для провер
         default:
         values_not_caught_above;
         } */
-        int user = 18;
+        int user = 21;// можно проверять только одно такое зачение, нельзя <=...
 
     switch (user){
         case 18: //слово case и значение, на которое хотим проверить переменную, потом :
