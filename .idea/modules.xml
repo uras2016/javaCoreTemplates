@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://D:/gojavaonline/src/module8/homewrok/homewrok.iml" filepath="D:/gojavaonline/src/module8/homewrok/homewrok.iml" />
     </modules>
   </component>
 </project>
