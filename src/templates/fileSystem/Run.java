@@ -5,6 +5,8 @@ public class Run {
 
         PrintCollection printCollection = new PrintCollection();
         printCollection.print();
+        CollectionTreeMap collectionTreeMap = new CollectionTreeMap();
+        collectionTreeMap.formCollectionTreeMap();
 
     }
 }
