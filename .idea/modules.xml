@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/classloader_demo/classloader_demo.iml" filepath="$PROJECT_DIR$/classloader_demo/classloader_demo.iml" />
-      <module fileurl="file://D:/gojavaonline/src/module9WorkWithText/module9WorkWithText.iml" filepath="D:/gojavaonline/src/module9WorkWithText/module9WorkWithText.iml" />
     </modules>
   </component>
 </project>
