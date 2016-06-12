@@ -1,4 +1,4 @@
-package Threads.bankAccount;
+package Threads.bankAccount.bankAcount;
 
 import javax.naming.InsufficientResourcesException;
 
