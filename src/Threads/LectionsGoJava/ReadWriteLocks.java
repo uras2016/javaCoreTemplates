@@ -1,4 +1,4 @@
-package Threads.bankAccount.LectionsGoJava;
+package Threads.LectionsGoJava;
 
 import java.util.Arrays;
 import java.util.Objects;

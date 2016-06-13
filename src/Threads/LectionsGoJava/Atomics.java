@@ -1,4 +1,4 @@
-package Threads.bankAccount.LectionsGoJava;
+package Threads.LectionsGoJava;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -15,6 +15,7 @@ public class Atomics {
         return counter.incrementAndGet();  // equivalent to counter++
     }
     private void test() {
+//        List<Aggregator> aggregator = new ArrayList<>();
 
 
     }

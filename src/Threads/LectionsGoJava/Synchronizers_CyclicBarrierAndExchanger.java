@@ -1,4 +1,4 @@
-package Threads.bankAccount.LectionsGoJava;
+package Threads.LectionsGoJava;
 
 import java.util.Random;
 import java.util.concurrent.BrokenBarrierException;

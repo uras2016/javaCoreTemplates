@@ -1,4 +1,4 @@
-package Threads.bankAccount.bankAcount;
+package Threads.bankAcount;
 
 public class Account {
 
