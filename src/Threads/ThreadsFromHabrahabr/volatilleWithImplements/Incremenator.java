@@ -1,4 +1,4 @@
-package Threads.simpleThreads.volatilleWithImplements;
+package Threads.ThreadsFromHabrahabr.volatilleWithImplements;
 /*
 Значение переменной, объявленной без volatile, может кэшироваться отдельно для каждого потока,
         и значение из этого кэша может различаться для каждого из них. Объявление переменной

@@ -1,4 +1,4 @@
-package Threads.simpleThreads.threadsTemplate2;
+package Threads.ThreadsFromHabrahabr.threadsTemplate2;
 
 public class EggVoice extends Thread {
     @Override

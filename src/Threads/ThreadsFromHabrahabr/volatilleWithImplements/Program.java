@@ -1,4 +1,4 @@
-package Threads.simpleThreads.volatilleWithImplements;
+package Threads.ThreadsFromHabrahabr.volatilleWithImplements;
 
 public class Program {
 

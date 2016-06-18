@@ -1,4 +1,4 @@
-package Threads.simpleThreads.threadsTemplate2;
+package Threads.ThreadsFromHabrahabr.threadsTemplate2;
 
 public class ChickenVoice {
     static EggVoice eggVoice;   //Побочный поток

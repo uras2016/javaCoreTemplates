@@ -1,4 +1,4 @@
-package Threads.simpleThreads.threadsTemplateRunnable;
+package Threads.ThreadsFromHabrahabr.threadsTemplateRunnable;
 
 import java.util.ArrayList;
 import java.util.List;

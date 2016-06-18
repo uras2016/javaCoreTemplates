@@ -1,4 +1,4 @@
-package Threads.simpleThreads.threadsTemplateRunnable;
+package Threads.ThreadsFromHabrahabr.threadsTemplateRunnable;
 
 public class Threads1 {
 
